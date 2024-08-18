@@ -6,3 +6,5 @@ updates:
       interval: "weekly"
     reviewers:
      - "swapnodeep"
+    assignees:
+     - "sahiljaiswal7370"
